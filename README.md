@@ -117,7 +117,7 @@ sudo pacman -S wget git python3
 ```
 2. To install in `/home/$(whoami)/stable-diffusion-webui/`, run:
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui/master/webui.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/MattiaDelleani/stable-diffusion-webui/master/webui.sh)
 ```
 3. Run `webui.sh`.
 ### Installation on Apple Silicon
