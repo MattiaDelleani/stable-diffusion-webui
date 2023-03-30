@@ -23,7 +23,7 @@ fi
 # Install directory without trailing slash
 if [[ -z "${install_dir}" ]]
 then
-    install_dir="/media/grains6lab2/Volume1/mammotriagepolitorepo/models"
+    install_dir="/media/grains6lab2/Volume/mammotriagepolitorepo/models"
 fi
 
 # Name of the subdirectory (defaults to stable-diffusion-webui)
